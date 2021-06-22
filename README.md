@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @John94php
-- 👀 I’m interested in quickly find a job ;)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on PHP, backend dev jobs
-- 📫 How to reach me -> janzalesinski@gmail.com
 - My main project -> reportit
 - SOON -> project in Symfony for medical clinic
 
