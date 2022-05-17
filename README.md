@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @John94php
-- I'm looking for a new job, new opportunity to extend my expierence in Laravel/Symfony
-- My main repo in Laravel - RecruApp(active programming)
-- passionate programmer, I like to program and create new things in various technologies.
+<h4> 👋 Hi, I’m @John94php</h4>
+<p> <s>I'm looking for a new job, new opportunity to extend my expierence in Laravel/Symfony</s></p>
+<p>I'm passionate programmer, I like to program and create new things in various technologies.</p>
 My current stack:
-PHP 7. *
-Laravel
-Symfony
-jquery
-JavaScript
-Redis(I'm just learning this: D )
+<ul>
+  <li>PHP 7. * | 8.*(learning this)</li>
+  <li>Laravel</li>
+  <li>Symfony</li>
+  <li>jquery/AJAX/Axios</li>
+  <li>JavaScript</li>
+  </ul>
+Now i'm trying to learn React with Express.js
 in the future perpahs more :) 
 
 <!---
