@@ -9,8 +9,8 @@ My current stack:
   <li>jquery/AJAX/Axios</li>
   <li>JavaScript</li>
   </ul>
-Now i'm trying to learn React with Express.js
-in the future perpahs more :) 
+
+Now I'm learning Java,C# and building mobile apps in Android
 
 <!---
 John94php/John94php is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
