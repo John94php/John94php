@@ -10,7 +10,7 @@ My current stack:
   <li>JavaScript</li>
   </ul>
 
-Now I'm learning Python (terminal scripts and desktop apps), Ruby on Rails(web) and building mobile apps in Android
+Now I'm learning Python (Tkinter and Django)
 
 <!---
 John94php/John94php is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
