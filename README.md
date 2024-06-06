@@ -1,5 +1,5 @@
 <h4> 👋 Hi, I’m @John94php</h4>
-<p> I'm looking for a new job, new opportunity to extend my expierence in Laravel/Symfony</p>
+<s> I'm looking for a new job, new opportunity to extend my expierence in Laravel/Symfony</s>
 <p>I'm passionate programmer, I like to program and create new things in various technologies.</p>
 My current stack:
 <ul>
