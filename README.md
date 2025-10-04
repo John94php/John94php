@@ -5,7 +5,7 @@ My tech stack:
 <li>Android</li>  
 <li>Python - Django, tkinter, wxPython,Flask</li>  
 <li>React</li>
- <li>Vue</li> 
+ <li>C#</li>
 </ul>
 For now the most language I know, and I'm most similiar is PHP and Symfony Framework
 <!---
