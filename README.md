@@ -1,11 +1,11 @@
 <h4> 👋 Hi, I’m @John94php</h4></h4>
 My tech stack:
 <ul>
-<li>PHP - Symfony</li>
-<li>Android</li>  
-<li>Python - Django, tkinter, wxPython,Flask</li>  
-<li>React</li>
- <li>C#</li>
+<li>PHP - Symfony [intermediate]</li>
+<li>Android / Flutter [very beginner] </li>  
+<li>Python - Django, tkinter, wxPython,Flask[beginner]</li>  
+<li>React [beginner]</li>
+ <li>C# [beginner]</li>
 </ul>
 For now the most language I know, and I'm most similiar is PHP and Symfony Framework
 <!---
